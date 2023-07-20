@@ -1,0 +1,23 @@
+{
+  "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js": {
+    "id": "./src/index.js",
+    "chunks": [
+      "main"
+    ],
+    "name": "*"
+  },
+  "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js#": {
+    "id": "./src/index.js",
+    "chunks": [
+      "main"
+    ],
+    "name": ""
+  },
+  "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js#Index": {
+    "id": "./src/index.js",
+    "chunks": [
+      "main"
+    ],
+    "name": "Index"
+  }
+}

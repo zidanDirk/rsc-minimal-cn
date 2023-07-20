@@ -1,0 +1,16 @@
+{
+  "./src/index.js": {
+    "*": {
+      "specifier": "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js",
+      "name": "*"
+    },
+    "": {
+      "specifier": "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js",
+      "name": ""
+    },
+    "Index": {
+      "specifier": "file:///Users/zidanzhang/work/hy/test/translate/rsc-minimal-cn/src/index.js",
+      "name": "Index"
+    }
+  }
+}

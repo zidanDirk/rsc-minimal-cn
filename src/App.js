@@ -1,9 +1,9 @@
 export default function App() {
     return (
       <div>
-        <h1>I'm a React Server Component!</h1>
+        <h1>这是一个 React Server Component!</h1>
         <h5>
-          Click <a href="/rsc">here</a> to see the RSC payload
+          点击 <a href="/rsc">这里</a> 查看 RSC 的组件内容
         </h5>
       </div>
     );
